@@ -4,8 +4,6 @@
 
 ---
 
-### 🌐 Connect with me
-<!-- Add your social links here if needed -->
 
 ---
 
