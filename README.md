@@ -1,63 +1,151 @@
+<!-- HEADER -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Ammar;AI+Automation+Engineer;AI+Agents+%7C+RAG+Systems+%7C+LLM+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Muhammad+Ammar;AI+Automation+Engineer;AI+Agents+%7C+RAG+Systems+%7C+LLM+Applications" />
 </p>
 
-<p>
-Final-year <b>Artificial Intelligence student at FAST NUCES</b> passionate about building 
-<b>AI agents, LLM-powered applications, and autonomous automation systems</b>.
+<p align="center">
+Final-year <b>Artificial Intelligence student at FAST NUCES</b> building <b>AI agents, RAG systems, and autonomous AI workflows</b>.
 
-I specialize in developing <b>Retrieval-Augmented Generation (RAG) systems</b>, 
-<b>multi-agent architectures</b> using LangChain and LangGraph, and 
-<b>AI workflow automation</b> using n8n.
-
-My work focuses on integrating <b>LLMs, APIs, vector databases, and cloud infrastructure</b> to create intelligent systems that automate complex real-world tasks.
+I specialize in <b>LangGraph multi-agent systems, LLM applications, and AI automation</b> using modern GenAI infrastructure.
 </p>
 
 ---
+
+# 🧠 AI & Tech Stack
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Tools+%26+Technologies" alt="Typing SVG" />
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/163769068?s=200&v=4" width="40" height="40"/>
+
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/>
+<img src="https://n8n.io/favicon.ico" width="40" height="40"/>
+
+<img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/107168593?s=200&v=4" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+
 </p>
 
+---
+
+# 🚀 Featured Projects
+
+### 🧳 SafarNama.AI – AI Travel Agent
+AI-powered travel assistant for Pakistan built with multi-agent architecture.
+
+**Tech Stack**
+- LangGraph
+- RAG
+- Qwen LLM
+- FastAPI
+- React
+- PostgreSQL
+- n8n automation
+
+**Features**
+- AI itinerary generation
+- Safety analysis
+- Voice-enabled travel assistant
+- Automated travel data pipelines
+
+---
+
+### 🤖 RepoOrchestrator – Multi-Agent GitHub Automation
+AI system that analyzes GitHub repositories and generates structured documentation automatically.
+
+**Tech Stack**
+
+- Gemini API  
+- n8n automation  
+- GitHub API  
+- Multi-agent workflows  
+
+**Features**
+
+- Automated repo analysis  
+- AI documentation generation  
+- Markdown / Google Docs reporting  
+- Email automation  
+
+---
+
+### 🎓 MentorMind – AI Learning Coach
+AI-powered learning assistant that creates personalized learning roadmaps.
+
+**Tech Stack**
+
+- n8n automation
+- OpenAI API
+- Gmail API
+- Google Calendar API
+- Google Docs API
+
+**Features**
+
+- Personalized study roadmap generation  
+- Automated learning reminders  
+- Dynamic quizzes with auto-grading  
+- Email-based learning assistant  
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
 
-<!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ammar-Gits&show_icons=true&theme=tokyonight"/>
 
-<!-- AI / ML -->
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-Gits&layout=compact&theme=tokyonight"/>
 
-<!-- AI Frameworks -->
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="langchain" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/163769068?s=200&v=4" alt="langgraph" width="40" height="40"/>
+</p>
 
-<!-- Backend / Automation -->
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://n8n.io/favicon.ico" alt="n8n" width="40" height="40"/>
+---
 
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+# 🔥 Contribution Graph
 
-<!-- Vector DB -->
-<img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="pinecone" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/107168593?s=200&v=4" alt="faiss" width="40" height="40"/>
+<p align="center">
 
-<!-- Data Science -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ammar-Gits&theme=tokyo-night"/>
 
-<!-- Frontend -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</p>
 
-<!-- Dev Tools -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+---
 
-<!-- Cloud -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+# 🌐 Connect With Me
 
+<p align="center">
+
+<a href="https://m-ammar-web.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-ammar-a22461335">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:muhammadammar4480@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+💡 <b>Interested in AI Agents, LLM Applications, and Automation Systems.</b>
 </p>
