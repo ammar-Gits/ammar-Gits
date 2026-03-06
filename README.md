@@ -18,8 +18,7 @@ Final semester Artificial Intelligence student at FAST National University (NUCE
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/163769068?s=200&v=4" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/crewai-brand-color.png" width="40" height="40"/>
 
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/>
 <img src="https://n8n.io/favicon.ico" width="40" height="40"/>
