@@ -5,7 +5,8 @@
 </p>
 
 <ul>
-  <li>Final semester Artificial Intelligence student at FAST National University (NUCES), passionate about building AI agents and LLM-powered applications.</li>
+  <li>Final semester Artificial Intelligence student at FAST National University (NUCES)</li>
+  <li>Passionate about building AI agents and LLM-powered applications.</li>
   <li>Focused on developing autonomous automation systems using modern AI technologies.</li>
   <li>Experienced in building Retrieval-Augmented Generation (RAG) systems for knowledge-grounded AI responses.</li>
   <li>Worked with multi-agent architectures using LangChain and LangGraph.</li>
