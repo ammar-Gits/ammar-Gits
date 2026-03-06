@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-Final-year <b>Artificial Intelligence student at FAST NUCES</b> building <b>AI agents, RAG systems, and autonomous AI workflows</b>.
-
-I specialize in <b>LangGraph multi-agent systems, LLM applications, and AI automation</b> using modern GenAI infrastructure.
+Final semester Artificial Intelligence student at FAST National University (NUCES) passionate about building AI agents, LLM-powered applications, and autonomous automation systems. My work focuses on developing Retrieval-Augmented Generation (RAG) systems, multi-agent architectures using LangChain and LangGraph, and AI workflow automation with n8n. I have experience integrating LLMs, REST APIs, vector databases (FAISS, Pinecone), and cloud infrastructure to build scalable AI solutions. Through projects like SafarNama.AI, RepoOrchestrator, and MentorMind, I design intelligent systems that automate complex tasks and deliver practical, real-world impact. I’m particularly interested in AI agents, agentic workflows, and building production-ready GenAI systems.
 </p>
 
 ---
@@ -102,29 +100,6 @@ AI-powered learning assistant that creates personalized learning roadmaps.
 - Dynamic quizzes with auto-grading  
 - Email-based learning assistant  
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ammar-Gits&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar-Gits&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ammar-Gits&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
