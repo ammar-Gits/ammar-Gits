@@ -24,8 +24,8 @@ Final semester Artificial Intelligence student at FAST National University (NUCE
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40"/>
 <img src="https://n8n.io/favicon.ico" width="40" height="40"/>
 
-<img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/107168593?s=200&v=4" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" width="40" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
