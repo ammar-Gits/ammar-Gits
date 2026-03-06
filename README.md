@@ -4,9 +4,17 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Muhammad+Ammar;AI+Automation+Engineer;AI+Agents+%7C+RAG+Systems+%7C+LLM+Applications" />
 </p>
 
-<p align="center">
-Final semester Artificial Intelligence student at FAST National University (NUCES) passionate about building AI agents, LLM-powered applications, and autonomous automation systems. My work focuses on developing Retrieval-Augmented Generation (RAG) systems, multi-agent architectures using LangChain and LangGraph, and AI workflow automation with n8n. I have experience integrating LLMs, REST APIs, vector databases (FAISS, Pinecone), and cloud infrastructure to build scalable AI solutions. Through projects like SafarNama.AI, RepoOrchestrator, and MentorMind, I design intelligent systems that automate complex tasks and deliver practical, real-world impact. I’m particularly interested in AI agents, agentic workflows, and building production-ready GenAI systems.
-</p>
+<ul>
+  <li>Final semester Artificial Intelligence student at FAST National University (NUCES), passionate about building AI agents and LLM-powered applications.</li>
+  <li>Focused on developing autonomous automation systems using modern AI technologies.</li>
+  <li>Experienced in building Retrieval-Augmented Generation (RAG) systems for knowledge-grounded AI responses.</li>
+  <li>Worked with multi-agent architectures using LangChain and LangGraph.</li>
+  <li>Skilled in AI workflow automation using n8n.</li>
+  <li>Integrated LLMs with REST APIs, vector databases (FAISS, Pinecone), and cloud infrastructure.</li>
+  <li>Developed scalable and production-ready GenAI solutions.</li>
+  <li>Built projects such as SafarNama.AI, RepoOrchestrator, and MentorMind.</li>
+  <li>Interested in AI agents, agentic workflows, and real-world impact through intelligent automation systems.</li>
+</ul>
 
 ---
 
