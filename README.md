@@ -1,26 +1,50 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Ammar;About+Me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Ammar;AI+Automation+Engineer;AI+Agents+%7C+RAG+Systems+%7C+LLM+Applications" alt="Typing SVG" />
 </p>
-<p>I’m a passionate software developer specializing in Artificial Intelligence, with a focus on training AI models, optimizing ANNs, and applying NLP and Computer Vision for real-world solutions. Alongside AI, I build dynamic, scalable web apps using the MERN stack. I’m skilled in solving complex problems using data structures, algorithms, and MySQL. My goal is to create efficient, intelligent, and impactful tech solutions.
+
+<p>
+I’m a final-year <b>Artificial Intelligence student at FAST NUCES</b> with a strong focus on building 
+<b>AI agents, autonomous workflows, and LLM-powered applications</b> using Python.  
+
+I specialize in developing <b>Retrieval-Augmented Generation (RAG) systems</b>, 
+<b>multi-agent architectures</b> using LangChain and LangGraph, and 
+<b>AI automation pipelines</b> using n8n.
+
+I enjoy integrating <b>LLMs, APIs, vector databases, and automation workflows</b> to create intelligent systems that solve real-world problems. My work includes building AI travel agents, repository analysis agents, and automated learning assistants powered by modern AI infrastructure.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Technical+Skills" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Tech+Stack+%26+Tools" alt="Typing SVG" />
 </p>
 
+<p align="center">
+
+<b>Languages</b><br>
+Python • JavaScript
+
+<br><br>
+
+<b>AI / GenAI</b><br>
+RAG • LangChain • LangGraph • CrewAI • LLM Fine-Tuning (LoRA / QLoRA) • Transformers
+
+<br><br>
+
+<b>Automation & Backend</b><br>
+FastAPI • n8n • REST APIs • Webhooks
+
+<br><br>
+
+<b>Databases</b><br>
+FAISS • Pinecone • SQL
+
+<br><br>
+
+<b>Frameworks</b><br>
+React • Node.js
+
+<br><br>
+
+<b>Cloud & MLOps</b><br>
+AWS (EC2, S3) • CI/CD • LangSmith • MLflow
+
+</p>
